@@ -2,7 +2,7 @@
 Cmpe 331 Group project
 Group ETA
 
-Tolga Aslım
+Tolga Aslım:Coding
 Aleyna Buse Güzel:Coding
 Emel Doğru
 Emin Yavaş
